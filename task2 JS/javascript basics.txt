@@ -1,0 +1,23 @@
+web is enough to run js and we can also use code editors and we can also use codepen.io and scrimba.com
+
+Let's start,
+
+console.log("to log(print) somthing on console")
+
+datatypes and variables
+
+there are 7 datatypes
+-undefined
+-null
+-boolean
+-number
+-string
+-symbol
+-object
+
+diff b/w let and var
+let can be used within the scoope only whereas var can be used in all program 
+and const var, you can never canaged it.
+
+Storing values with assignment operators
+

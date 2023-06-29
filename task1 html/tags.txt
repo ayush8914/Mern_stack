@@ -1,0 +1,67 @@
+<em>
+<strong>
+<pre>
+<hr>
+<br>
+&nbsp;
+&lt;  // less than
+&copy; // copy right symbol
+&gt; //greater than
+<abbr title=""></abbr>
+<address></address>
+<!-- -->
+<dl>
+<dt></dt><dd></dd>
+</dl>
+<section ID="">
+<nav aria-label="primary-navigation">
+
+<a href="file.type" download></a>
+<a href="mailto:ayush@gmail.com"></a>
+<a href="tel:+32324"></a>
+<a href="https://www.google.com" target="_blank"></a>
+
+<figure>
+<img src="" alt="" title="" width="" height="" loading="lazy"/>
+<figcaption>
+</figcaption>
+</figure>
+
+<article></article> or section can be used in alternative manner
+
+
+<aside>
+<details>
+<summary><mark></mark>
+<time  datetime=""></time> 
+</summary>
+</details>
+</aside>
+<code></code> 
+ 
+ <div> </div>  it stands for divider that is much like section
+<span></span>
+
+
+
+
+
+youtube link
+https://www.youtube.com/watch?v=kUMe1FH4CHE
+
+other links
+loremipsum.io
+unsplash.com
+pexels.com
+gratisography.com
+pixabay.com
+
+image software
+irfanview.com
+
+to reduce the image size
+tinypng.com
+
+
+
+
