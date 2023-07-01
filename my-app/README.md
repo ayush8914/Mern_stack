@@ -1,9 +1,3 @@
-#site pic
-
-<img src="https://github.com/ayush8914/Mern_stack/blob/main/my-app/src/images/Screenshot%202023-07-01%20021742.png" />
-
-
-
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
