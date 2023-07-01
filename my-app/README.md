@@ -1,6 +1,6 @@
 #site pic
 
-<img src="https://drive.google.com/file/d/1HRy1-Zo7qL6HJOKKc_vSS7LGDwGoZQP_/view?usp=sharing" />
+<img src="https://github.com/ayush8914/Mern_stack/blob/main/my-app/src/images/Screenshot%202023-07-01%20021742.png" />
 
 
 
