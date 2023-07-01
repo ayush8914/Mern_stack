@@ -1,2 +1,2 @@
 ﻿# MERN STACK 
-### `my-app` is the static react page
+### `my-app` contains static react page
